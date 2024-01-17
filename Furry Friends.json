@@ -155,7 +155,7 @@
     "background": {
         "blur": 0.5,
         "url": "https://scontent.fakl1-4.fna.fbcdn.net/v/t1.6435-9/160367032_262612722159815_727228924263580969_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=aj3bhVR3NZIAX_vPogL&_nc_ht=scontent.fakl1-4.fna&oh=00_AfCfcquDYl-ajlp0DF3z1EC2YqY-O7WEZPgPyv-DGYvvXg&oe=65CF47D2",
-        "alpha": 0.0
+        "alpha": 0.25
         },
         "plus":{
        "version":"0",
